@@ -1,0 +1,18 @@
+[submodule "tripaway-trip-service"]
+	path = tripaway-trip-service
+	url = git@github.com:avollmaier/tripaway-trip-service.git
+[submodule "tripaway-location-service"]
+	path = tripaway-location-service
+	url = git@github.com:avollmaier/tripaway-location-service.git
+[submodule "tripaway-user-service"]
+	path = tripaway-user-service
+	url = git@github.com:avollmaier/tripaway-user-service.git
+[submodule "tripaway-config-service"]
+	path = tripaway-config-service
+	url = git@github.com:avollmaier/tripaway-config-service.git
+[submodule "tripaway-edge-service"]
+	path = tripaway-edge-service
+	url = git@github.com:avollmaier/tripaway-edge-service.git
+[submodule "tripaway-discovery-service"]
+	path = tripaway-discovery-service
+	url = git@github.com:avollmaier/tripaway-discovery-service.git

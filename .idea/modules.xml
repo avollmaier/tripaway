@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/config-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/config-service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/discovery-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/discovery-service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/edge-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/edge-service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/location-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/location-service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/trip-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/trip-service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/tripaway.iml" filepath="$PROJECT_DIR$/.idea/tripaway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/user-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/user-service.main.iml" />
+    </modules>
+  </component>
+</project>
